@@ -7,4 +7,4 @@ I’m studying Artificial Intelligence & Machine Learning at VIT Chennai (2024-2
 
 🛠️ Outside the screen you’ll find me doing personal projects, reading tech blogs or helping classmates untangle tricky code blocks. I believe great software starts with simple, well-tested building blocks and a team that shares knowledge freely.
 
-🤝 If you’re working on an internship program, an open-source initiative, or just feel like chatting about clean code and AI, let’s connect!🚀
+If you’re working on an internship program, an open-source initiative, or just feel like chatting about clean code and AI, let’s connect!🚀
