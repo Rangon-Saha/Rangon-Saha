@@ -1,10 +1,20 @@
-👋 Hi, I’m a sophomore AIML'28 undergrad @ VIT Chennai, who loves turning blank screens into working code and questions into neat solutions.
+👋 Hi, I’m Rangon
 
-I’m studying Artificial Intelligence & Machine Learning at VIT Chennai (2024-28) and spend most evenings balancing two tabs: one with C, C++ or Python code, the other with HTML/CSS and JavaScript tutorials. My projects so far include:• Cardiovascular Disease Prediction, Spotify Songs Genre Segmentation 
-🧩• Static webpages that test out responsive design and clean layouts 🌐• Coursework experiments that introduce me to neural-network basics 🤖
+I’m a sophomore AIML undergrad 2028 at VIT Chennai, focused on building reliable software and applying machine learning to real-world problems.
 
-🌱 What I bring to the table:• Solid grasp of loops, functions, pointers, OOP and entry-level data structures• Git-first workflow and a habit of writing clear commit messages• Patience to debug, plus the curiosity that keeps me digging until I understand the “why”
+I work primarily with C, C++, and Python, and also build on the web using HTML, CSS, and JavaScript. I enjoy balancing strong programming fundamentals with hands-on project work.
 
-🛠️ Outside the screen you’ll find me doing personal projects, reading tech blogs or helping classmates untangle tricky code blocks. I believe great software starts with simple, well-tested building blocks and a team that shares knowledge freely.
+📌 Projects
 
-If you’re working on an internship program, an open-source initiative, or just feel like chatting about clean code and AI, let’s connect!🚀
+. Cardiovascular Disease Prediction – applied ML to healthcare data
+. Spotify Songs Genre Segmentation – data-driven classification using ML
+. Responsive static websites – clean layouts and usability-focused design
+. Coursework experiments exploring neural network fundamentals
+
+🌱 Strengths
+
+. Solid grasp of loops, functions, pointers, OOP, and introductory data structures
+. Git-first workflow with clear, meaningful commits
+. Patient debugging mindset and curiosity to understand the why behind solutions
+
+📬 Open to internships, open-source collaboration, and discussions around clean code and applied AI 🚀
